@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: Config_Prod_Github
 eureka:
   instance:
     prefer-ip-address: true
